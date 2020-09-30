@@ -4,7 +4,6 @@ Design a Vending Machine which:
 
  - Accepts coin values 1, 5, 10, 20, 50
  - Allows the user to select products Coke(27), Pepsi(35), Dr Pepper(45)
- - Allows the user to take a refund by canceling the request.
  - Return selected product and remaining change if any
  - Returns change in the lowest number of coins possible
  
