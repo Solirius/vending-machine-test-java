@@ -3,8 +3,8 @@
 Design a Vending Machine which:
 
  - Accepts coin values 1, 5, 10, 20, 50
- - Allows the user to select products Coke(27), Pepsi(35), Dr Pepper(45)
- - Return selected product and remaining change if any
+ - Allows the user to select products e.g. Coke(27), Pepsi(35), Dr Pepper(45)
+ - Returns the selected product and remaining change if any
  - Returns change in the lowest number of coins possible
  
 Complete the implementation of the `ProductVendingMachine` so that it passes the tests included in the codebase. Feel free to add more tests if desired.
